@@ -1,4 +1,3 @@
-
 # CodeScope AI 🔍
 
 > GraphRAG-powered autonomous code intelligence platform. Paste a GitHub URL — get architecture diagrams, security vulnerability detection, and AI-powered codebase Q&A.
